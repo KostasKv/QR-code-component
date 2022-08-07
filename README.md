@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <!-- - Solution URL: [Add solution URL here](https://kostaskv-qr-code-component.netlify.app/) -->
 
-- Live Site URL: [Add live site URL here](https://kostaskv-qr-code-component.netlify.app/)
+- Live Site URL: [https://kostaskv-qr-code-component.netlify.app/](https://kostaskv-qr-code-component.netlify.app/)
 
 ## My process
 
@@ -53,4 +53,4 @@ Going forward, I want to:
 ## Author
 
 - Website - [Kostas Kvietinskas](https://www.kostask.com)
-- Frontend Mentor - [@KostasKv](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@KostasKv](https://www.frontendmentor.io/profile/kostaskv)
